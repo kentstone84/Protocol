@@ -65,3 +65,10 @@ A tactical layout of everything released in Week 1.
 1. Install required dependencies:
 ```bash
 pip install nfcpy cryptography
+
+
+
+Legal & Ethical Use
+
+GhostNode is an educational tool for cybersecurity research, red teaming, and passive defense exploration.
+Do not deploy without consent or in jurisdictions where unauthorized surveillance is illegal.
